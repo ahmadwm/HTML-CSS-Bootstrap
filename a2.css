@@ -11,3 +11,8 @@
 .font-italic{
 	text-align: center;
 }
+
+#sty{
+	display: inline-block ;
+	vertical-align: top;
+}
